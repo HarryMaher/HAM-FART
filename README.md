@@ -1,6 +1,10 @@
-# HAM FART (Frequency Audio Radio Transmission)
+# HAM FART (Harry and Morimoto's Flatulence Acoustic Radio Transmission)
 
-A unique and humorous approach to digital communication using HAM radios and custom audio tones. This project demonstrates how to transmit text data using specially crafted audio signals over HAM radio frequencies.
+Created for the 2025 Georgetown Steam Plant Science Fair 2025 which has a ["Break the System"](https://www.georgetownsteamplant.org/events/georgetown-steam-plant-science-fair-1) theme. 
+
+We're breaking wind; breaking social norms around flatulence; disrupting the local radio waves; and breaking through any attempt at censorship of communication. HAM FART challenges social taboos and censorship by exploring the transmission of messages and data via acoustic flatulence.
+
+A unique approach to digital communication using HAM radios and custom audio tones using small laptops or handheld devices connected to radios. This project demonstrates how to transmit text data using specially crafted audio signals over HAM radio frequencies. In our brave new world where privacy is evaporating and trust in institutions is low, flatulence-based transmission could become the last true **butt**ress of free speech.
 
 ## System Overview
 
@@ -12,7 +16,7 @@ A unique and humorous approach to digital communication using HAM radios and cus
 
 ## Character Mapping Table
 
-The system uses 20 unique fart tones to encode up to 100 different characters. Each character is represented by a combination of two fart tones.
+The system uses 20 unique fart tones to encode up to 100 different characters. Each character is represented by a combination of two fart tones. We will attempt to layer them, if possible, using the HAM FART version of DTMF--(Dual-Toot Multi-Frequency).
 
 ### Basic Character Set (95 printable ASCII characters)
 
@@ -80,4 +84,4 @@ The system uses 20 unique fart tones to encode up to 100 different characters. E
 
 ## Note
 
-This project is for educational and entertainment purposes only. Please ensure you have the proper HAM radio licenses and follow all relevant regulations when transmitting. 
+This project does not work yet and is for educational and entertainment purposes only. Please ensure you have the proper HAM radio licenses and follow all relevant regulations before transmitting. 
